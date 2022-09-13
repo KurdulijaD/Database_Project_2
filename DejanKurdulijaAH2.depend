@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1642875264 source:c:\users\dejan\desktop\z4_pr_2, pr45-2019, dejan kurdulija\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije.h"
+
+1642874080 c:\users\dejan\desktop\z4_pr_2, pr45-2019, dejan kurdulija\operacije.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"slog.h"
+
+1642718861 c:\users\dejan\desktop\z4_pr_2, pr45-2019, dejan kurdulija\slog.h
+
+1642876012 source:c:\users\dejan\desktop\z4_pr_2, pr45-2019, dejan kurdulija\operacije.c
+	"operacije.h"
+
